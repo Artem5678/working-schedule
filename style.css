@@ -1,0 +1,21 @@
+table {
+    color:rgba(255, 5, 5, 0.63);
+    }
+.f1 {
+    color:aquamarine;
+}
+.table {
+    font-weight: 600;
+}
+table {
+    background-color:green;
+    font-size:20px;
+    width:500px;
+}
+body {
+    background-color:blueviolet;
+}
+#aboba {
+    border: solid;
+    width: 100px; height: auto;
+}
