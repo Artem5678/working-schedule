@@ -1,24 +1,41 @@
 table {
-    color:rgba(255, 5, 5, 0.63);
-    }
-.f1 {
-    color:aquamarine;
-}
-.table {
+    color: rgba(255, 5, 5, 0.63);
+    max-width: 100%;
+    width: 500px;
     font-weight: 600;
+    background-color: rgb(137, 149, 214);
+    font-size: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-collapse: separate;
 }
-table {
-    background-color:rgb(137, 149, 214);
-    font-size:20px;
-    width:500px;
+
+tr:nth-child(odd) {
+    background: blue;
 }
+
+.table td {
+    border: 1px solid black;
+    width: 250px;
+}
+
+.f1 {
+    color: aquamarine;
+}
+
 body {
-    background-color:rgb(153, 152, 228);
+    background-color: rgb(153, 152, 228);
 }
+
 #aboba {
     border: 1px solid black;
-    width: 100px; height: auto;
+    width: 100px;
+    height: auto;
 }
 h2 {
     text-align: center;
+    text-shadow: 4px 4px 7px black;
 }
+
