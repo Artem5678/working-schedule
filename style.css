@@ -8,14 +8,17 @@ table {
     font-weight: 600;
 }
 table {
-    background-color:green;
+    background-color:rgb(137, 149, 214);
     font-size:20px;
     width:500px;
 }
 body {
-    background-color:blueviolet;
+    background-color:rgb(153, 152, 228);
 }
 #aboba {
     border: 1px solid black;
     width: 100px; height: auto;
+}
+h2 {
+    text-align: center;
 }
