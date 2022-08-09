@@ -1,1 +1,1 @@
-alert('AMOGUS?!');
+alert('1');
